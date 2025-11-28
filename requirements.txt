@@ -1,0 +1,6 @@
+```text
+pandas>=1.5
+matplotlib>=3.6
+numpy
+pytest
+jinja2
